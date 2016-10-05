@@ -26,6 +26,6 @@ class Child<Parent
 	end
 end
 	c=Child.new
-	 # c.access_protected_method_c
+	  c.access_protected_method_c
 	 c.access_private_method_b
 	# c.method_b
